@@ -5,6 +5,7 @@ This project was created for my industrial programming module in 4th year. I got
 ### Technology used
 * C#
 * Visual studio
+* XML
 
 ### Running The Application
 To run the application please run the solution file in visual studio 2015
